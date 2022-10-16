@@ -32,4 +32,12 @@ docker-compose down -v
 
 ## 📌 Steps
 
-<img src="">
+<img src="https://github.com/rasitesdmr/SpringBoot-RedisCache/blob/master/image/r9.png">
+
+<img src="https://github.com/rasitesdmr/SpringBoot-RedisCache/blob/master/image/r6.png">
+
+<img src="https://github.com/rasitesdmr/SpringBoot-RedisCache/blob/master/image/r1.png">
+
+<img src="https://github.com/rasitesdmr/SpringBoot-RedisCache/blob/master/image/r2.png">
+
+<img src="https://github.com/rasitesdmr/SpringBoot-RedisCache/blob/master/image/r3.png">
